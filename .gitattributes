@@ -1,0 +1,6 @@
+# 统一换行符,避免跨平台 CRLF 污染
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.jpg binary
+*.whl binary
