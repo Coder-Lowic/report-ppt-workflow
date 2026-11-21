@@ -46,6 +46,9 @@ Turn this work summary, these spreadsheets and photos into a quarterly report PP
 
 ![workflow](assets/workflow.en.svg)
 
+🎬 **Interactive version**(zoom/search/export):[coder-lowic.github.io/report-ppt-workflow](https://coder-lowic.github.io/report-ppt-workflow/)
+
+
 ## Dependencies (auto tier by environment)
 
 | Tier | Requirement | Capabilities |
