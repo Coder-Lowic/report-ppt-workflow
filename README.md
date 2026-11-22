@@ -52,6 +52,12 @@ npx skills add Coder-Lowic/report-ppt-workflow
 
 🎬 **在线交互版**(可缩放/搜索/导出):[coder-lowic.github.io/report-ppt-workflow](https://coder-lowic.github.io/report-ppt-workflow/)
 
+## 架构
+
+![architecture](assets/architecture.svg)
+
+🎬 [交互版](https://coder-lowic.github.io/report-ppt-workflow/architecture.html)
+
 
 ## 依赖(按环境自动升降级)
 

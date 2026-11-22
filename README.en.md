@@ -48,6 +48,12 @@ Turn this work summary, these spreadsheets and photos into a quarterly report PP
 
 🎬 **Interactive version**(zoom/search/export):[coder-lowic.github.io/report-ppt-workflow](https://coder-lowic.github.io/report-ppt-workflow/)
 
+## Architecture
+
+![architecture](assets/architecture.en.svg)
+
+🎬 [Interactive](https://coder-lowic.github.io/report-ppt-workflow/architecture.html)
+
 
 ## Dependencies (auto tier by environment)
 
